@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RSP> 
+  <hRet>0</hRet>  
+  <sCR> 
+    <sLeve>2</sLeve>  
+    <cPolicy>4</cPolicy> 
+  </sCR>  
+  <sRules> 
+    <sRule> 
+      <chpId>10001000</chpId>  
+      <sLeve>2</sLeve>  
+      <cPolicy>3</cPolicy> 
+    </sRule>  
+    <sRule> 
+      <chpId>66666666</chpId>  
+      <sLeve>2</sLeve>  
+      <cPolicy>3</cPolicy> 
+    </sRule> 
+  </sRules>  
+  <sPKR> 
+    <sLeve>2</sLeve>  
+    <cPolicy>1</cPolicy> 
+  </sPKR>  
+  <sPKRules> 
+    <sPKRule> 
+      <pkgid>823456789003</pkgid>  
+      <sLeve>3</sLeve>  
+      <cPolicy>3</cPolicy> 
+    </sPKRule> 
+  </sPKRules> 
+</RSP>
